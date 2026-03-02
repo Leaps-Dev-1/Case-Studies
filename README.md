@@ -32,7 +32,7 @@ Full-stack web and mobile apps, SaaS MVPs, API development, DevOps setup, and on
 
 ## Work With Us
 LeapsDev is a collective of AI engineers, developers, and automation specialists helping businesses cut costs, eliminate manual work, and scale operations with custom-built intelligent systems — not off-the-shelf tools.
-Contact for custom AI voice agent builds, white-label partnerships, and agency collaborations. Book a free 30-minute consultation at leapsdev.com.
+> *Contact for custom AI voice agent builds, white-label partnerships, and agency collaborations. Book a free 30-minute consultation at leapsdev.com.*
 
 **Sufyan — Founder & CEO**
 📧 [sufyan-sufy@leapsdev.com](mailto:sufyan-sufy@leapsdev.com)
