@@ -1,9 +1,7 @@
 # LeapsDev — AI Voice Agents & Intelligent Automation
-**We build AI-powered systems that work while you sleep.**
 
-
-## These Case Studies
 These case studies document real and scenario-based projects across industries — what the problem was, what we built, and what changed. Documents in this repo are real capability studies documenting how we approach complex AI voice agent and automation problems across industries — contact centers, automotive, insurance, hospitality, home services, and more.
+
 ---
 
 *Every project is delivered under NDA. Client identities are protected in accordance with our white-label service model.*
@@ -33,11 +31,10 @@ Full-stack web and mobile apps, SaaS MVPs, API development, DevOps setup, and on
 ---
 
 ## Work With Us
+LeapsDev is a collective of AI engineers, developers, and automation specialists helping businesses cut costs, eliminate manual work, and scale operations with custom-built intelligent systems — not off-the-shelf tools.
+Contact for custom AI voice agent builds, white-label partnerships, and agency collaborations. Book a free 30-minute consultation at leapsdev.com.
 
 **Sufyan — Founder & CEO**
 📧 [sufyan-sufy@leapsdev.com](mailto:sufyan-sufy@leapsdev.com)
 🌐 [leapsdev.com](https://leapsdev.com)
-💬 WhatsApp: +92 327 1080439
-
-> *Available for custom AI voice agent builds, white-label partnerships, and agency collaborations. Book a free 30-minute consultation at leapsdev.com.*
-> *LeapsDev is a collective of AI engineers, developers, and automation specialists helping businesses cut costs, eliminate manual work, and scale operations with custom-built intelligent systems — not off-the-shelf tools.*
+💬 WhatsApp: +92 (327) 1080-439
